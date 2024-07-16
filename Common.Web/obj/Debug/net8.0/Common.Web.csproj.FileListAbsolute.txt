@@ -1,0 +1,12 @@
+D:\Extreme Self\Common.Web\bin\Debug\net8.0\Common.Web.deps.json
+D:\Extreme Self\Common.Web\bin\Debug\net8.0\Common.Web.dll
+D:\Extreme Self\Common.Web\bin\Debug\net8.0\Common.Web.pdb
+D:\Extreme Self\Common.Web\obj\Debug\net8.0\Common.Web.csproj.AssemblyReference.cache
+D:\Extreme Self\Common.Web\obj\Debug\net8.0\Common.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Extreme Self\Common.Web\obj\Debug\net8.0\Common.Web.AssemblyInfoInputs.cache
+D:\Extreme Self\Common.Web\obj\Debug\net8.0\Common.Web.AssemblyInfo.cs
+D:\Extreme Self\Common.Web\obj\Debug\net8.0\Common.Web.csproj.CoreCompileInputs.cache
+D:\Extreme Self\Common.Web\obj\Debug\net8.0\Common.Web.dll
+D:\Extreme Self\Common.Web\obj\Debug\net8.0\refint\Common.Web.dll
+D:\Extreme Self\Common.Web\obj\Debug\net8.0\Common.Web.pdb
+D:\Extreme Self\Common.Web\obj\Debug\net8.0\ref\Common.Web.dll

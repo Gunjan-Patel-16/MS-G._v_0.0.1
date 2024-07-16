@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "c10fZ3RLZYjT1wIi4LeOd00iLMar01qMrcAQeSKwKqc=",
+  "Source": "PaymentGateway",
+  "BasePath": "_content/PaymentGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\Extreme Self\\DocFileManager\\DocFileManager.csproj",
+      "Version": 2,
+      "Source": "DocFileManager",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

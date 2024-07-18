@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "c10fZ3RLZYjT1wIi4LeOd00iLMar01qMrcAQeSKwKqc=",
+  "Hash": "SzAo4dmiqNO1QNOfy0wMRDEXzrl5F9xryQQ0BROV+/Q=",
   "Source": "PaymentGateway",
   "BasePath": "_content/PaymentGateway",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "D:\\Extreme Self\\DocFileManager\\DocFileManager.csproj",
+      "Identity": "D:\\Extreme Self\\MS_Gv1\\MS-G._v_0.0.1\\DocFileManager\\DocFileManager.csproj",
       "Version": 2,
       "Source": "DocFileManager",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",

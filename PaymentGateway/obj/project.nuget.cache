@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vyLs3mFR7tVCNj7Dj/LP+7CSFb+IrptMfzk/CNAVGcwbyJUvpbESDAF6QdNJQvEPYrmBITu6qfOkxbym8ij6wg==",
+  "dgSpecHash": "fK30qi41whMznuRF3dF2BW5k/mbp2uJMLEi1udLXyI4Bb1cOa2epvBo+C1t4/sEDbx607SxdAQ4HGvh8BNhwnw==",
   "success": true,
-  "projectFilePath": "D:\\Extreme Self\\PaymentGateway\\PaymentGateway.csproj",
+  "projectFilePath": "D:\\Extreme Self\\MS_Gv1\\MS-G._v_0.0.1\\PaymentGateway\\PaymentGateway.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\INP\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\INP\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Bh216w9zXDyEz63LtK3pNvqf+MIOJa3lQGw5tzrEgfY+8g2Oq48AhvYafYxUanGfhS4osugK4NHQbgSEb8yVgw==",
+  "dgSpecHash": "6LngcKAx+sVJM6vJTAxicOrvZX96J4tbEZaEBtU54mhM2vvYVCdj22FKoQUC//kT6pMQJ/i3mZk96rJJDD1Rcg==",
   "success": true,
-  "projectFilePath": "D:\\Extreme Self\\WebAPIVersionControl\\WebAPIVersionControl.csproj",
+  "projectFilePath": "D:\\Extreme Self\\MS_Gv1\\MS-G._v_0.0.1\\WebAPIVersionControl\\WebAPIVersionControl.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\INP\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\INP\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

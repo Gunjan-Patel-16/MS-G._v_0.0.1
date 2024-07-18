@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Extreme Self\\PaymentGateway\\PaymentGateway.csproj": {}
+    "D:\\Extreme Self\\MS_Gv1\\MS-G._v_0.0.1\\PaymentGateway\\PaymentGateway.csproj": {}
   },
   "projects": {
-    "D:\\Extreme Self\\Common.Web\\Common.Web.csproj": {
+    "D:\\Extreme Self\\MS_Gv1\\MS-G._v_0.0.1\\Common.Web\\Common.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Extreme Self\\Common.Web\\Common.Web.csproj",
+        "projectUniqueName": "D:\\Extreme Self\\MS_Gv1\\MS-G._v_0.0.1\\Common.Web\\Common.Web.csproj",
         "projectName": "Common.Web",
-        "projectPath": "D:\\Extreme Self\\Common.Web\\Common.Web.csproj",
+        "projectPath": "D:\\Extreme Self\\MS_Gv1\\MS-G._v_0.0.1\\Common.Web\\Common.Web.csproj",
         "packagesPath": "C:\\Users\\INP\\.nuget\\packages\\",
-        "outputPath": "D:\\Extreme Self\\Common.Web\\obj\\",
+        "outputPath": "D:\\Extreme Self\\MS_Gv1\\MS-G._v_0.0.1\\Common.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\INP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -74,14 +74,14 @@
         }
       }
     },
-    "D:\\Extreme Self\\DocFileManager\\DocFileManager.csproj": {
+    "D:\\Extreme Self\\MS_Gv1\\MS-G._v_0.0.1\\DocFileManager\\DocFileManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Extreme Self\\DocFileManager\\DocFileManager.csproj",
+        "projectUniqueName": "D:\\Extreme Self\\MS_Gv1\\MS-G._v_0.0.1\\DocFileManager\\DocFileManager.csproj",
         "projectName": "DocFileManager",
-        "projectPath": "D:\\Extreme Self\\DocFileManager\\DocFileManager.csproj",
+        "projectPath": "D:\\Extreme Self\\MS_Gv1\\MS-G._v_0.0.1\\DocFileManager\\DocFileManager.csproj",
         "packagesPath": "C:\\Users\\INP\\.nuget\\packages\\",
-        "outputPath": "D:\\Extreme Self\\DocFileManager\\obj\\",
+        "outputPath": "D:\\Extreme Self\\MS_Gv1\\MS-G._v_0.0.1\\DocFileManager\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\INP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -98,8 +98,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Extreme Self\\Common.Web\\Common.Web.csproj": {
-                "projectPath": "D:\\Extreme Self\\Common.Web\\Common.Web.csproj"
+              "D:\\Extreme Self\\MS_Gv1\\MS-G._v_0.0.1\\Common.Web\\Common.Web.csproj": {
+                "projectPath": "D:\\Extreme Self\\MS_Gv1\\MS-G._v_0.0.1\\Common.Web\\Common.Web.csproj"
               }
             }
           }
@@ -147,14 +147,14 @@
         }
       }
     },
-    "D:\\Extreme Self\\PaymentGateway\\PaymentGateway.csproj": {
+    "D:\\Extreme Self\\MS_Gv1\\MS-G._v_0.0.1\\PaymentGateway\\PaymentGateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Extreme Self\\PaymentGateway\\PaymentGateway.csproj",
+        "projectUniqueName": "D:\\Extreme Self\\MS_Gv1\\MS-G._v_0.0.1\\PaymentGateway\\PaymentGateway.csproj",
         "projectName": "PaymentGateway",
-        "projectPath": "D:\\Extreme Self\\PaymentGateway\\PaymentGateway.csproj",
+        "projectPath": "D:\\Extreme Self\\MS_Gv1\\MS-G._v_0.0.1\\PaymentGateway\\PaymentGateway.csproj",
         "packagesPath": "C:\\Users\\INP\\.nuget\\packages\\",
-        "outputPath": "D:\\Extreme Self\\PaymentGateway\\obj\\",
+        "outputPath": "D:\\Extreme Self\\MS_Gv1\\MS-G._v_0.0.1\\PaymentGateway\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\INP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -171,11 +171,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Extreme Self\\Common.Web\\Common.Web.csproj": {
-                "projectPath": "D:\\Extreme Self\\Common.Web\\Common.Web.csproj"
+              "D:\\Extreme Self\\MS_Gv1\\MS-G._v_0.0.1\\Common.Web\\Common.Web.csproj": {
+                "projectPath": "D:\\Extreme Self\\MS_Gv1\\MS-G._v_0.0.1\\Common.Web\\Common.Web.csproj"
               },
-              "D:\\Extreme Self\\DocFileManager\\DocFileManager.csproj": {
-                "projectPath": "D:\\Extreme Self\\DocFileManager\\DocFileManager.csproj"
+              "D:\\Extreme Self\\MS_Gv1\\MS-G._v_0.0.1\\DocFileManager\\DocFileManager.csproj": {
+                "projectPath": "D:\\Extreme Self\\MS_Gv1\\MS-G._v_0.0.1\\DocFileManager\\DocFileManager.csproj"
               }
             }
           }

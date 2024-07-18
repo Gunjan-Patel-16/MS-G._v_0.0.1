@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WSb/mT6DPy+hUXl775ePCcyvx5DFDNwC2vQK/iNztZ1kD3kHjkGMP5UO6ZZGcYN/zNgblGTu8AGDyiLvT8lbtg==",
+  "dgSpecHash": "K0t7ulx75oWNXihM8E0GDNU3SYoEvf7NX81qiueA3g6JYYQR1RgLlKfI9EiJh8i3IdLHfLSnStDOjyIG3++TDA==",
   "success": true,
-  "projectFilePath": "D:\\Extreme Self\\DocFileManager\\DocFileManager.csproj",
+  "projectFilePath": "D:\\Extreme Self\\MS_Gv1\\MS-G._v_0.0.1\\DocFileManager\\DocFileManager.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\INP\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\INP\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

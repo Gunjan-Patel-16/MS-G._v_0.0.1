@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Extreme Self\\MS_API_GateWay\\MS_API_GateWay.csproj": {}
+    "D:\\Extreme Self\\MS_Gv1\\MS-G._v_0.0.1\\MS_API_GateWay\\MS_API_GateWay.csproj": {}
   },
   "projects": {
-    "D:\\Extreme Self\\MS_API_GateWay\\MS_API_GateWay.csproj": {
+    "D:\\Extreme Self\\MS_Gv1\\MS-G._v_0.0.1\\MS_API_GateWay\\MS_API_GateWay.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Extreme Self\\MS_API_GateWay\\MS_API_GateWay.csproj",
+        "projectUniqueName": "D:\\Extreme Self\\MS_Gv1\\MS-G._v_0.0.1\\MS_API_GateWay\\MS_API_GateWay.csproj",
         "projectName": "MS_API_GateWay",
-        "projectPath": "D:\\Extreme Self\\MS_API_GateWay\\MS_API_GateWay.csproj",
+        "projectPath": "D:\\Extreme Self\\MS_Gv1\\MS-G._v_0.0.1\\MS_API_GateWay\\MS_API_GateWay.csproj",
         "packagesPath": "C:\\Users\\INP\\.nuget\\packages\\",
-        "outputPath": "D:\\Extreme Self\\MS_API_GateWay\\obj\\",
+        "outputPath": "D:\\Extreme Self\\MS_Gv1\\MS-G._v_0.0.1\\MS_API_GateWay\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\INP\\AppData\\Roaming\\NuGet\\NuGet.Config",

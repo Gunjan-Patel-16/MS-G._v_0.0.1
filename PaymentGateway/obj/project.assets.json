@@ -1691,11 +1691,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Extreme Self\\PaymentGateway\\PaymentGateway.csproj",
+      "projectUniqueName": "D:\\Extreme Self\\MS_Gv1\\MS-G._v_0.0.1\\PaymentGateway\\PaymentGateway.csproj",
       "projectName": "PaymentGateway",
-      "projectPath": "D:\\Extreme Self\\PaymentGateway\\PaymentGateway.csproj",
+      "projectPath": "D:\\Extreme Self\\MS_Gv1\\MS-G._v_0.0.1\\PaymentGateway\\PaymentGateway.csproj",
       "packagesPath": "C:\\Users\\INP\\.nuget\\packages\\",
-      "outputPath": "D:\\Extreme Self\\PaymentGateway\\obj\\",
+      "outputPath": "D:\\Extreme Self\\MS_Gv1\\MS-G._v_0.0.1\\PaymentGateway\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\INP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1712,11 +1712,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Extreme Self\\Common.Web\\Common.Web.csproj": {
-              "projectPath": "D:\\Extreme Self\\Common.Web\\Common.Web.csproj"
+            "D:\\Extreme Self\\MS_Gv1\\MS-G._v_0.0.1\\Common.Web\\Common.Web.csproj": {
+              "projectPath": "D:\\Extreme Self\\MS_Gv1\\MS-G._v_0.0.1\\Common.Web\\Common.Web.csproj"
             },
-            "D:\\Extreme Self\\DocFileManager\\DocFileManager.csproj": {
-              "projectPath": "D:\\Extreme Self\\DocFileManager\\DocFileManager.csproj"
+            "D:\\Extreme Self\\MS_Gv1\\MS-G._v_0.0.1\\DocFileManager\\DocFileManager.csproj": {
+              "projectPath": "D:\\Extreme Self\\MS_Gv1\\MS-G._v_0.0.1\\DocFileManager\\DocFileManager.csproj"
             }
           }
         }

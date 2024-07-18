@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Extreme Self\\WebAPIVersionControl\\WebAPIVersionControl.csproj": {}
+    "D:\\Extreme Self\\MS_Gv1\\MS-G._v_0.0.1\\WebAPIVersionControl\\WebAPIVersionControl.csproj": {}
   },
   "projects": {
-    "D:\\Extreme Self\\WebAPIVersionControl\\WebAPIVersionControl.csproj": {
+    "D:\\Extreme Self\\MS_Gv1\\MS-G._v_0.0.1\\WebAPIVersionControl\\WebAPIVersionControl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Extreme Self\\WebAPIVersionControl\\WebAPIVersionControl.csproj",
+        "projectUniqueName": "D:\\Extreme Self\\MS_Gv1\\MS-G._v_0.0.1\\WebAPIVersionControl\\WebAPIVersionControl.csproj",
         "projectName": "WebAPIVersionControl",
-        "projectPath": "D:\\Extreme Self\\WebAPIVersionControl\\WebAPIVersionControl.csproj",
+        "projectPath": "D:\\Extreme Self\\MS_Gv1\\MS-G._v_0.0.1\\WebAPIVersionControl\\WebAPIVersionControl.csproj",
         "packagesPath": "C:\\Users\\INP\\.nuget\\packages\\",
-        "outputPath": "D:\\Extreme Self\\WebAPIVersionControl\\obj\\",
+        "outputPath": "D:\\Extreme Self\\MS_Gv1\\MS-G._v_0.0.1\\WebAPIVersionControl\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\INP\\AppData\\Roaming\\NuGet\\NuGet.Config",

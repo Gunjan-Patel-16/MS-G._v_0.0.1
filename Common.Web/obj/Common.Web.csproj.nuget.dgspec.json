@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Extreme Self\\Common.Web\\Common.Web.csproj": {}
+    "D:\\Extreme Self\\MS_Gv1\\MS-G._v_0.0.1\\Common.Web\\Common.Web.csproj": {}
   },
   "projects": {
-    "D:\\Extreme Self\\Common.Web\\Common.Web.csproj": {
+    "D:\\Extreme Self\\MS_Gv1\\MS-G._v_0.0.1\\Common.Web\\Common.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Extreme Self\\Common.Web\\Common.Web.csproj",
+        "projectUniqueName": "D:\\Extreme Self\\MS_Gv1\\MS-G._v_0.0.1\\Common.Web\\Common.Web.csproj",
         "projectName": "Common.Web",
-        "projectPath": "D:\\Extreme Self\\Common.Web\\Common.Web.csproj",
+        "projectPath": "D:\\Extreme Self\\MS_Gv1\\MS-G._v_0.0.1\\Common.Web\\Common.Web.csproj",
         "packagesPath": "C:\\Users\\INP\\.nuget\\packages\\",
-        "outputPath": "D:\\Extreme Self\\Common.Web\\obj\\",
+        "outputPath": "D:\\Extreme Self\\MS_Gv1\\MS-G._v_0.0.1\\Common.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\INP\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -6,6 +6,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.OpenApi.Models;
 using Swashbuckle.AspNetCore.SwaggerGen;
 using WebAPIVersionControl.Context;
+using WebAPIVersionControl.Controllers;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -28,6 +29,12 @@ builder.Services.AddDbContext<ApiVersionControlDbContext>(
         .EnableSensitiveDataLogging()
         .EnableDetailedErrors()
 );
+# endregion
+
+# region Configure Controllers
+builder.Services.AddScoped<CityController>();
+builder.Services.AddScoped<CountryController>();
+builder.Services.AddScoped<WeatherForecastController>();
 # endregion
 
 # region API Versioning

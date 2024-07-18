@@ -1,12 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
-using System.Text.Json.Serialization;
 
-namespace WebAPIVersionControl.Controllers
+namespace MS_API_GateWay.Controllers
 {
     [ApiController]
-    [Route("/api/[controller]/[action]",Order = 1)]
-    //[Route("api/v-0.1/[controller]/[action]" , Order = 2)]
-    //[ApiVersion("0.1")]
+    [Route("/api/[controller]/[action]")]
     public class WeatherForecastController : ControllerBase
     {
         private static readonly string[] Summaries = new[]
@@ -25,17 +22,6 @@ namespace WebAPIVersionControl.Controllers
         public IEnumerable<WeatherForecast> Get()
         {
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
-            {
-                Date = DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
-                TemperatureC = Random.Shared.Next(-20, 55),
-                Summary = Summaries[Random.Shared.Next(Summaries.Length)]
-            })
-            .ToArray();
-        }
-        [HttpGet(Name = "GetNWeatherForecast")]
-        public IEnumerable<WeatherForecast> GetN(int n)
-        {
-            return Enumerable.Range(1, n).Select(index => new WeatherForecast
             {
                 Date = DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
                 TemperatureC = Random.Shared.Next(-20, 55),

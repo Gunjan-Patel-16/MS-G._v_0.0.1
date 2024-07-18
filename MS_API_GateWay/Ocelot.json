@@ -1,0 +1,67 @@
+{
+  "Routes": [
+    //{
+    //  "DownstreamPathTemplate": "/api/WeatherForecast/{everithing}",
+    //  "DownstreamScheme": "https",
+    //  "DownstreamHostAndPorts": [
+    //    {
+    //      "Host": "localhost",
+    //      "Port": 5137
+    //    }
+    //  ],
+    //  "UpstreamPathTemplate": "/ApiGateWay/WeatherForecast/{everithing}",
+    //  "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE" ]
+    //},
+    //{
+    //  "DownstreamPathTemplate": "/api/Country/{everithing}",
+    //  "DownstreamScheme": "https",
+    //  "DownstreamHostAndPorts": [
+    //    {
+    //      "Host": "localhost",
+    //      "Port": 5137
+    //    }
+    //  ],
+    //  "UpstreamPathTemplate": "/ApiGateWay/Country/{everithing}",
+    //  "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE" ]
+    //},
+    //{
+    //  "DownstreamPathTemplate": "/api/{controller}/{everithing}",
+    //  "DownstreamScheme": "https",
+    //  "DownstreamHostAndPorts": [
+    //    {
+    //      "Host": "localhost",
+    //      "Port": 5137 // Api-Versioning Project
+    //    }
+    //  ],
+    //  "UpstreamPathTemplate": "/ApiGateWay/{controller}/{everithing}",
+    //  "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE" ]
+    //},
+    {
+      "DownstreamPathTemplate": "/api/{controller}/{action}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7253 // Doc-File Manager Project
+        }
+      ],
+      "UpstreamPathTemplate": "/DocApiGateWay/{controller}/{action}",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/{controller}/{everithing}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7147 // Stripe PaymentGateway project
+        }
+      ],
+      "UpstreamPathTemplate": "/PaymentApiGateWay/{controller}/{everithing}",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE" ]
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "https://localhost:7083"
+  }
+}

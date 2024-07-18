@@ -1,0 +1,6 @@
+@MS_API_GateWay_HostAddress = http://localhost:5083
+
+GET {{MS_API_GateWay_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

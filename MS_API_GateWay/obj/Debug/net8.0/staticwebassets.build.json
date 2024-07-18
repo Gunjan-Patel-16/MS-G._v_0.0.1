@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BHBggmdxYiARbYqu9F/i1Eoppxc6mcREntnPvCXi9ps=",
+  "Source": "MS_API_GateWay",
+  "BasePath": "_content/MS_API_GateWay",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
